@@ -64,48 +64,6 @@ The Character class in Java is a wrapper class for the char primitive data type.
     - Input: `'A'`
     - Output: `true`
 
-### Intermediate Level Questions
-
-11. **Check if a given character is a letter or digit**
-    - Input: `'#'`
-    - Output: `false`
-
-12. **Find the Unicode code point of a character**
-    - Input: `'A'`
-    - Output: `65`
-
-13. **Check if a character can start a Java identifier**
-    - Input: `'1'`
-    - Output: `false`
-
-14. **Check if a character can be part of a Java identifier**
-    - Input: `'$'`
-    - Output: `true`
-
-15. **Compare two characters lexicographically**
-    - Input: `'A'`, `'B'`
-    - Output: `-1`
-
-16. **Convert a digit to its corresponding character**
-    - Input: `5`
-    - Output: `'5'`
-
-17. **Find the category of a given character**
-    - Input: `'A'`
-    - Output: `UPPERCASE_LETTER`
-
-18. **Check if a character is a control character**
-    - Input: `'\n'`
-    - Output: `true`
-
-19. **Check if a character is a punctuation mark**
-    - Input: `'.'`
-    - Output: `true`
-
-20. **Convert an integer to a character using radix**
-    - Input: `(10, 16)`
-    - Output: `'A'`
-
 ## String Manipulation Using Character Class
 
 21. **Count the number of uppercase letters in a string**
